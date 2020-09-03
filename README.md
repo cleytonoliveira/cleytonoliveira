@@ -1,21 +1,16 @@
 # Cleyton Oliveira
-<p align="center">
-  <a href="https://github.com/cleytonoliveira">
-    <img align="left" alt="Pavan's Linkdein" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-  </a>
-</p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/cleytonoliveirapro">
-    <img align="left" alt="Pavan's Linkdein" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a>
-</p>
-  
-<p align="center">
-  <a href="mailto:cleytonoliveirapro@gmail.com">
-    <img align="left" alt="Pavan's Facebook" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-  </a>
-</p>
+<a href="https://github.com/cleytonoliveira">
+  <img align="center" alt="Pavan's Linkdein" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+
+<a href="https://linkedin.com/in/cleytonoliveirapro">
+  <img align="center" alt="Pavan's Linkdein" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+<a href="mailto:cleytonoliveirapro@gmail.com">
+  <img align="center" alt="Pavan's Facebook" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 
 ### Welcome to my repository 👋
 
