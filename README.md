@@ -1,15 +1,24 @@
-### Hi there 👋
+# Cleyton Oliveira
+----
+
+<a href="https://github.com/cleytonoliveira">
+  <img align="center" alt="Pavan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
 <a href="https://linkedin.com/in/cleytonoliveirapro">
-  <img align="left" alt="Pavan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="center" alt="Pavan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://instagram.com/cleytonoliveirapro/">
-  <img align="left" alt="Pavan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/cleytonoliveirapro/">
-  <img align="left" alt="Pavan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<a href="mailto:cleytonoliveirapro@gmail.com">
+  <img align="center" alt="Pavan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=cleytonoliveira&show_icons=true&hide_border=true)
+### Welcome to my repository 👋
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleytonoliveira&layout=compact&theme=dracula" alt="Top Langs">
+</p>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=cleytonoliveira&show_icons=true&hide_border=true&theme=dracula" alt="Github Stats">
+</p>
 
 <!--
 **cleytonoliveira/cleytonoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
