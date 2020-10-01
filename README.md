@@ -1,24 +1,26 @@
-# Cleyton Oliveira
-
-<a href="https://github.com/cleytonoliveira">
-  <img align="center" alt="Pavan's Linkdein" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-
-<a href="https://linkedin.com/in/cleytonoliveirapro">
-  <img align="center" alt="Pavan's Linkdein" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
-<a href="mailto:cleytonoliveirapro@gmail.com">
-  <img align="center" alt="Pavan's Facebook" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-
-### Welcome to my repository 👋
+<h1 align="center">
+  Hi there :raising_hand_man:
+</h1>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleytonoliveira&layout=compact&theme=dracula" alt="Top Langs">
+  I am Cleyton Oliveira, Welcome to my repository :tada:
 </p>
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/cleytonoliveirapro/)
+[<img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:cleytonoliveirapro@gmail.com)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/cleytonoliveirapro/)
+[<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/cleytonoliveirapro)
+[<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://www.youtube.com/cleytonoliveirapro)
+[<img src ="https://img.shields.io/badge/Website-pk-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://cleytonoliveira.github.io/)
+[![Visits Badge](https://badges.pufler.dev/visits/cleytonoliveira/cleytonoliveira?style=for-the-badge&logo=github)](https://github.com/cleytonoliveira)
+
+<h2>
+  Stats about Cleyton
+</h2>
+
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=cleytonoliveira&show_icons=true&hide_border=true&theme=dracula" alt="Github Stats">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cleytonoliveira&hide_langs_below=.25&theme=radical" alt="Top Langs">
+  <img src = "https://github-readme-stats.vercel.app/api?username=cleytonoliveira&show_icons=true&hide_border=true&theme=radical&line_height=33" alt="Github Stats">
 </p>
 
 <!--
