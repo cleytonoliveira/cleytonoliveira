@@ -20,7 +20,7 @@
 
 <p align="center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cleytonoliveira&hide_langs_below=.25&theme=radical" alt="Top Langs">
-  <img src = "https://github-readme-stats.vercel.app/api?username=cleytonoliveira&show_icons=true&hide_border=true&theme=radical&line_height=33" alt="Github Stats">
+  <img src = "https://github-readme-stats.vercel.app/api?username=cleytonoliveira&show_icons=true&hide_border=true&theme=radical&line_height=40" alt="Github Stats">
 </p>
 
 <!--
