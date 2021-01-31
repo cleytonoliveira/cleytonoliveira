@@ -1,6 +1,4 @@
-<h1 align="center">
-  Hi there :raising_hand_man:
-</h1>
+# Hi there :raising_hand_man:
 
 <p align="center">
   I am Cleyton Oliveira, Welcome to my repository :tada:
@@ -14,9 +12,29 @@
 [<img src ="https://img.shields.io/badge/Website-pk-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://cleytonoliveira.github.io/)
 [![Visits Badge](https://badges.pufler.dev/visits/cleytonoliveira/cleytonoliveira?style=for-the-badge&logo=github)](https://github.com/cleytonoliveira)
 
-<h2>
-  Stats about Cleyton
-</h2>
+---
+
+## Languages and Tools
+
+<code><img height="60" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+<code><img height="60" src="https://cdn.svgporn.com/logos/css-3.svg"></code>
+<code><img height="60" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+<code><img height="60" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/redux.svg"><code>
+
+<code><img height="60" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<code><img height="60" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg"></code>
+<code><img height="60" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+<code><img height="60" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+<code><img height="60" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+
+<code><img height="60" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-ar21.svg"></code>
+<code><img height="60" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img height="60" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg"><code>
+
+---
+
+## Stats about Cleyton
 
 <p align="center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cleytonoliveira&hide_langs_below=.25&theme=radical" alt="Top Langs">
