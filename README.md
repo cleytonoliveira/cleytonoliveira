@@ -41,9 +41,11 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=cleytonoliveira&show_icons=true&hide_border=true&theme=radical&line_height=40" alt="Github Stats">
 </p>
 
+<!-- [<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://www.youtube.com/cleytonoliveirapro) -->
+
 <!--
 **cleytonoliveira/cleytonoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<!-- [<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://www.youtube.com/cleytonoliveirapro) -->
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
