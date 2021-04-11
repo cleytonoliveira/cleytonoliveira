@@ -8,7 +8,6 @@
 [<img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:cleytonoliveirapro@gmail.com)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/cleytonoliveirapro/)
 [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/cleytonoliveirapro)
-<!-- [<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://www.youtube.com/cleytonoliveirapro) -->
 [<img src ="https://img.shields.io/badge/Website-pk-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://cleytonoliveira.github.io/)
 [![Visits Badge](https://badges.pufler.dev/visits/cleytonoliveira/cleytonoliveira?style=for-the-badge&logo=github)](https://github.com/cleytonoliveira)
 
@@ -44,7 +43,7 @@
 
 <!--
 **cleytonoliveira/cleytonoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<!-- [<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://www.youtube.com/cleytonoliveirapro) -->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
