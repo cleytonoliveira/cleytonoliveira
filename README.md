@@ -1,59 +1,55 @@
-# Hi there :raising_hand_man:
+# Hey there! I'm Cleyton Oliveira
+
+A **brazilian developer** guy, passionate about Technology and Sports, sure that life is learning with new challenges and solve problems. Believe in brands that working to give the best digital experience.
+
+
+📚 &nbsp;I'm on track for learning more about Artificial Intelligence and Cloud Architecture.\
+🆓 &nbsp;In my free time, I like to learning about economics and finances.
+<!-- 📄 &nbsp;Please have a look at my [Résumé](https://www.cleytonoliveira.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
+
+## 🛠 &nbsp;Tech Stack
+
+- 🧑‍💻 &nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+
+- 🧠 &nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+
+- 🔎 &nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3&logoColor=1572B6)
+
+- 📦 &nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![Sequelize](https://img.shields.io/badge/-Sequelize-333333?style=flat&logo=sequelize)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+
+- ⚙️ &nbsp;
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+
+- ⛏️ &nbsp;
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+## ⚙️ &nbsp;Stats
 
 <p align="center">
-  I am Cleyton Oliveira, Welcome to my repository :tada:
+  <a target="_blank" href="https://github.com/cleytonoliveira">
+    <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cleytonoliveira&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Github Stats">
+    <img height="200em" src = "https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cleytonoliveira&layout=compact&langs_count=8&theme=radical" alt="Top Langs">
+  </a>
 </p>
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/cleytonoliveirapro/)
-[<img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:cleytonoliveirapro@gmail.com)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/cleytonoliveirapro/)
-[<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/cleytonoliveirapro)
-[<img src ="https://img.shields.io/badge/Website-pk-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://cleytonoliveira.github.io/)
-[![Visits Badge](https://badges.pufler.dev/visits/cleytonoliveira/cleytonoliveira?style=for-the-badge&logo=github)](https://github.com/cleytonoliveira)
-
----
-
-## Languages and Tools
-
-<code><img height="60" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-<code><img height="60" src="https://cdn.svgporn.com/logos/css-3.svg"></code>
-<code><img height="60" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
-<code><img height="60" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-<code><img height="60" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/redux.svg"></code>
-
-<code><img height="60" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img height="60" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg"></code>
-<code><img height="60" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-<code><img height="60" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-<code><img height="60" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-
-<code><img height="60" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-ar21.svg"></code>
-<code><img height="60" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<code><img height="60" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg"></code>
-
----
-
-## Stats about Cleyton
+## 🤝 &nbsp;Connect with me
 
 <p align="center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cleytonoliveira&hide_langs_below=.25&theme=radical" alt="Top Langs">
-  <img src = "https://github-readme-stats.vercel.app/api?username=cleytonoliveira&show_icons=true&hide_border=true&theme=radical&line_height=40" alt="Github Stats">
+  <a href="https://www.linkedin.com/in/cleytonoliveirapro/"><img src="https://img.shields.io/badge/-Cleyton%20Oliveira-0077B5?style=flat&logo=linkedin"/></a>
+  <a href="mailto:cleytonoliveirapro@gmail.com"><img src="https://img.shields.io/badge/-cleytonoliveirapro@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://instagram.com/cleytonoliveirapro"><img src="https://img.shields.io/badge/-@cleytonoliveirapro-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
-
-<!-- [<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://www.youtube.com/cleytonoliveirapro) -->
-
-<!--
-**cleytonoliveira/cleytonoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
