@@ -3,8 +3,9 @@
 A **brazilian developer** guy, passionate about Technology and Sports, sure that life is learning with new challenges and solve problems. Believe in brands that working to give the best digital experience.
 
 
-📚 &nbsp;I'm on track for learning more about Artificial Intelligence and Cloud Architecture.\
-🆓 &nbsp;In my free time, I like to learning about economics and finances.
+📚 &nbsp;I'm on track for learning more about Java;\
+🆓 &nbsp;In my free time, I like to learning about economics and finances;\
+🥋 &nbsp;I was karate and jiu-jitsu athlete for so many years.
 <!-- 📄 &nbsp;Please have a look at my [Résumé](https://www.cleytonoliveira.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
 
 ## 🛠 &nbsp;Tech Stack
